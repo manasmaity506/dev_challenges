@@ -1,0 +1,5 @@
+Github Link:
+https://github.com/manasmaity506/dev_challenges/tree/main/simple_faq_page
+
+Domain:
+https://simple_faq_page.surge.sh/
