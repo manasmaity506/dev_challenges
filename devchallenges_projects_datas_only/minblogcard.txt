@@ -1,0 +1,5 @@
+Domain:
+https://minblogcard.surge.sh/
+
+Github:
+https://github.com/manasmaity506/min_blog_card_devchallenges
